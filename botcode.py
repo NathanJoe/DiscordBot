@@ -109,4 +109,4 @@ async def help(ctx):
      embed.add_field(name="ping", value="check your latency (i think)")
      embed.add_field(name="help", value="thats, why you are here....")
      await ctx.send(embed=embed)
-client.run('NzA2Njk2Njc2MDkzNTkxNjIz.Xq-ArA.x0Fqt9Je5aOUDoDAlDcxn3mONJM')
+client.run('no u')
